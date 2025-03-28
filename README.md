@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @RashadNovruzov
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java 
-
 
 
 <!---
